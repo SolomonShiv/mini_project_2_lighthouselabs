@@ -1,0 +1,1 @@
+yelp = {'Client_ID_yelp' : 'xLv4qhYbU11qC_w1_TBWwA', 'API_Key_yelp' : 'JP1xrrE4cbkCGLKcZ6zOtNk5UgJle3WcBFRv2ujy2DdhWShLI-DzjOmbVokFLql1-Yvy8z8AsgPnEOP53b0wD0y5puWoBBtFiajth-M1P5StLbBxcFWi6aXgztWEYXYx' }
